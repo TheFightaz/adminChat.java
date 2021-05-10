@@ -1,0 +1,7 @@
+main: fightaz.adminchat.Main
+name: AdminChat
+version: 1.0
+author: TheFightaz
+
+commands:
+  ac:
